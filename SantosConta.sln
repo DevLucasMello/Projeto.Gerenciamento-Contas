@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Presentation", "01.Presentation", "{35E06B10-3999-4857-A9A7-3CC96E468878}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Application", "02.Application", "{5BD468C3-B448-438B-B710-32210000E16F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Domain", "03.Domain", "{06ED13D2-DC81-4509-A709-EA2E13128EB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.InfraStructure", "04.InfraStructure", "{29090A4C-5843-4B67-B379-AEF2C61E2F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantosConta.Domain", "SantosConta.Domain\SantosConta.Domain.csproj", "{09F400E6-0F37-48D5-8CF0-916A373D9FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantosConta.Repository", "SantosConta.Repository\SantosConta.Repository.csproj", "{F66E4B19-53E1-4778-A89B-76828D1271FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantosConta.ApplicationService", "SantosConta.ApplicationService\SantosConta.ApplicationService.csproj", "{C0D4F7A1-AEF0-4B84-B2A8-63A069866235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantosConta.UI.Web", "SantosConta.UI.Web\SantosConta.UI.Web.csproj", "{011004AF-72E1-4B14-A728-B1947A180D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F400E6-0F37-48D5-8CF0-916A373D9FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F400E6-0F37-48D5-8CF0-916A373D9FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F400E6-0F37-48D5-8CF0-916A373D9FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F400E6-0F37-48D5-8CF0-916A373D9FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66E4B19-53E1-4778-A89B-76828D1271FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66E4B19-53E1-4778-A89B-76828D1271FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66E4B19-53E1-4778-A89B-76828D1271FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66E4B19-53E1-4778-A89B-76828D1271FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D4F7A1-AEF0-4B84-B2A8-63A069866235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D4F7A1-AEF0-4B84-B2A8-63A069866235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D4F7A1-AEF0-4B84-B2A8-63A069866235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D4F7A1-AEF0-4B84-B2A8-63A069866235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011004AF-72E1-4B14-A728-B1947A180D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011004AF-72E1-4B14-A728-B1947A180D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011004AF-72E1-4B14-A728-B1947A180D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011004AF-72E1-4B14-A728-B1947A180D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09F400E6-0F37-48D5-8CF0-916A373D9FE7} = {06ED13D2-DC81-4509-A709-EA2E13128EB8}
+		{F66E4B19-53E1-4778-A89B-76828D1271FF} = {29090A4C-5843-4B67-B379-AEF2C61E2F04}
+		{C0D4F7A1-AEF0-4B84-B2A8-63A069866235} = {5BD468C3-B448-438B-B710-32210000E16F}
+		{011004AF-72E1-4B14-A728-B1947A180D36} = {35E06B10-3999-4857-A9A7-3CC96E468878}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13DEECB4-CD9C-49CF-A032-294A80AF8D95}
+	EndGlobalSection
+EndGlobal

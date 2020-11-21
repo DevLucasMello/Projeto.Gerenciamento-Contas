@@ -1,0 +1,30 @@
+﻿@model SantosConta.Domain.ContaCorrente
+
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h3>Excluir Conta Corrente</h3>
+
+<h4>Confirma a exclusão deste registro?</h4>
+
+
+<hr />
+
+<p>
+    <label class="control-label">Descrição</label>
+    <span>@Model.Descricao</span>
+
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <input type="submit" value="Excluir" class="btn btn-danger" />
+        <a href='@Url.Action("Inicio")' class="btn btn-default"> Voltar </a>
+
+    </div>
+}
+

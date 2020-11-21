@@ -1,0 +1,13 @@
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\bin\Debug\SantosConta.Repository.dll.config
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\bin\Debug\SantosConta.Repository.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\bin\Debug\SantosConta.Repository.pdb
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\bin\Debug\Dapper.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\bin\Debug\MySql.Data.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\bin\Debug\Dapper.xml
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\obj\Debug\SantosConta.Repository.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\obj\Debug\SantosConta.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\obj\Debug\SantosConta.Repository.csproj.CopyComplete
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\obj\Debug\SantosConta.Repository.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\obj\Debug\SantosConta.Repository.pdb
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\bin\Debug\SantosConta.Domain.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Repository\bin\Debug\SantosConta.Domain.pdb

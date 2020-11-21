@@ -1,0 +1,9 @@
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\bin\Debug\SantosConta.ApplicationService.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\bin\Debug\SantosConta.ApplicationService.pdb
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\bin\Debug\SantosConta.Domain.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\bin\Debug\SantosConta.Domain.pdb
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\obj\Debug\SantosConta.ApplicationService.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\obj\Debug\SantosConta.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\obj\Debug\SantosConta.ApplicationService.csproj.CopyComplete
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\obj\Debug\SantosConta.ApplicationService.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.ApplicationService\obj\Debug\SantosConta.ApplicationService.pdb

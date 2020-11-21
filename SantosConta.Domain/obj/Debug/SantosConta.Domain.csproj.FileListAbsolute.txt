@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Domain\bin\Debug\SantosConta.Domain.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Domain\bin\Debug\SantosConta.Domain.pdb
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Domain\obj\Debug\SantosConta.Domain.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Domain\obj\Debug\SantosConta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Domain\obj\Debug\SantosConta.Domain.dll
+C:\Users\Lucas\source\repos\SantosConta\SantosConta.Domain\obj\Debug\SantosConta.Domain.pdb
